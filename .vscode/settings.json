@@ -1,0 +1,14 @@
+{
+  "[gemfile]": {
+    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  },
+  "[erb]": {
+    "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}
